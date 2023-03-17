@@ -16,5 +16,6 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 by me: A engenharia de software tem ajudado e trago inumeros resultados para o atual cenario mundial da programação alem de ter possibilitado o entendimento dos trade-offs, assim oferecendo melhor manejamento no mercado de trabalho; a visão passada pelo livro e que o trabalho em grupo possibilita uma melhor performance do timed além de visões com experiencias e insights sobre o tema.
 
 17/03/2023
-Diagrama Criado com base em uma loja
-Diagrama Bertoti.png
+Um sistema foi desenvolvido para simular uma lista de compras, permitindo ao usuário cadastrar itens em falta e suas respectivas quantidades em uma lista. Além disso, o usuário tem a opção de compartilhar a lista com outra pessoa, se necessário.
+
+<link> Diagrama Bertoti.png<link>
