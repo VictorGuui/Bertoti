@@ -14,3 +14,7 @@ O que são requisitos?
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming  is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 by me: A engenharia de software tem ajudado e trago inumeros resultados para o atual cenario mundial da programação alem de ter possibilitado o entendimento dos trade-offs, assim oferecendo melhor manejamento no mercado de trabalho; a visão passada pelo livro e que o trabalho em grupo possibilita uma melhor performance do timed além de visões com experiencias e insights sobre o tema.
+
+17/03/2023
+Diagrama Criado com base em uma loja
+Diagrama Bertoti.png
