@@ -19,4 +19,4 @@ by me: A engenharia de software tem ajudado e trago inumeros resultados para o a
 Um sistema foi desenvolvido para simular uma lista de compras, permitindo ao usuário cadastrar itens em falta e suas respectivas quantidades em uma lista. Além disso, o usuário tem a opção de compartilhar a lista com outra pessoa, se necessário.
 
 
-<img src"./Diagrama Bertoti">
+<img src"/Diagrama Bertoti">
