@@ -1,3 +1,4 @@
 # Bertoti
 Engenharia de software I
-![Diagrama Bertoti (1)](https://github.com/VictorGuui/Bertoti/assets/101465349/f345cafc-bd32-4280-94e0-5d3e3a0d6bb4)
+
+Repositório das disciplinas do Juliano Bertoti Repositório destinado a armazenar as atividades desenvolvidas nas disciplinas ministradas pelo Professor Juliano Bertoti do curso de Análise e Desenvolvimento de Sistemas da FATEC - SJCampos
