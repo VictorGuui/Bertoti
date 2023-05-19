@@ -38,16 +38,16 @@ Diagrama de classes
 Código do programa
 
 Classe App
-![image](https://github.com/VictorGuui/Bertoti/assets/101465349/e5d4a26f-a52b-4f86-aaba-46a756119f49)
+![image](https://github.com/VictorGuui/Bertoti/assets/101465349/e2b991e9-a846-470f-94b2-97a8a7b481ee)
 
 Classe Usuario
-![image](https://github.com/VictorGuui/Bertoti/assets/101465349/a77c20b2-dbbd-44f2-aa48-ac4190bc6e19)
+![image](https://github.com/VictorGuui/Bertoti/assets/101465349/4fd9e521-8167-4dde-96f2-fd50e721389c)
 
 Classe Lista
 ![image](https://github.com/VictorGuui/Bertoti/assets/101465349/a82d537d-9781-46a4-af29-2fa8e1ef2af2)
 
 Classe Item
-![image](https://github.com/VictorGuui/Bertoti/assets/101465349/ffea5c99-2f0c-4cc3-aba1-e746fa53e438)
+![image](https://github.com/VictorGuui/Bertoti/assets/101465349/1cd5d8d3-8fe8-459c-9a02-aed9e45a1eb7)
 
 Classe Categoria
 ![image](https://github.com/VictorGuui/Bertoti/assets/101465349/7eb70d31-dd7f-4240-be50-4ab73a3dc0d9)
