@@ -11,7 +11,7 @@ Globalmente, penso que o texto enfatiza a importância de uma abordagem mais est
 Resposta:
 Os desenvolvedores de software também são desenvolvedores de software. No entanto, os engenheiros de software têm recursos adicionais, como: B. Responsável por tarefas de controle de tempo, tomada de decisões de longo prazo e preocupação com o escopo e a eficiência do software. Portanto, ser um desenvolvedor de software significa pensar em certos aspectos além do código. Pense no potencial futuro do seu projeto ou software, suas possíveis aplicações e sua facilidade de uso.
 
-===========================================================================================================================
+============================================================================================
 
 Trade-off
 
@@ -19,14 +19,14 @@ Pergunta: O que é um trade-off no projeto da API do segundo semestre?
 
 Resposta: A exigência de desenvolvimento de software para desktop não permite que os clientes abram o projeto em um navegador ou o utilizem em dispositivos móveis. No entanto, o software de desktop permite que os clientes tenham flexibilidade em seus aplicativos.
 
-===========================================================================================================================
+============================================================================================
 
 <strong>23/02/23</strong>
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming  is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 Resposta: A engenharia de software tem ajudado e trago inumeros resultados para o atual cenario mundial da programação alem de ter possibilitado o entendimento dos trade-offs, assim oferecendo melhor manejamento no mercado de trabalho; a visão passada pelo livro e que o trabalho em grupo possibilita uma melhor performance do timed além de visões com experiencias e insights sobre o tema.
 
-===========================================================================================================================
+============================================================================================
 
 17/03/2023
 Foi desenvolvido um sistema de simulação de lista de compras no qual os itens em falta e suas quantidades podem ser inseridos na lista. Os usuários também podem compartilhar listas com outras pessoas, se desejarem.
