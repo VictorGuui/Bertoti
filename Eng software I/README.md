@@ -9,7 +9,7 @@ by ChatGPT:Na minha opinião, o texto realça com precisão as principais difere
 Globalmente, penso que o texto enfatiza a importância de uma abordagem mais estratégica da engenharia de software, em oposição à abordagem mais táctica da programação. Salienta a necessidade dos engenheiros de software terem uma visão mais holística do processo de desenvolvimento de software, considerando não só os aspectos técnicos do código, mas também as implicações organizacionais e estratégicas mais vastas. Em última análise, creio que esta é uma perspectiva valiosa a considerar por qualquer pessoa envolvida no desenvolvimento de software."
 
 Resposta:
-Os desenvolvedores de software também são desenvolvedores de software. No entanto, os engenheiros de software têm recursos adicionais, como: B. Responsável por tarefas de controle de tempo, tomada de decisões de longo prazo e preocupação com o escopo e a eficiência do software. Portanto, ser um desenvolvedor de software significa pensar em certos aspectos além do código. Pense no potencial futuro do seu projeto ou software, suas possíveis aplicações e sua facilidade de uso.
+Este texto destaca diferenças importantes entre programação e desenvolvimento de software, como a importância de tempo, escopo e trade-offs. Os desenvolvedores de software devem considerar o desenvolvimento futuro e a eficiência organizacional e tomar decisões complexas com riscos mais altos. Esta é uma perspectiva valiosa para qualquer pessoa envolvida no desenvolvimento de software.
 
 ============================================================================================
 
