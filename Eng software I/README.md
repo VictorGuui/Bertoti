@@ -35,3 +35,38 @@ Diagrama de classes
 
 ![Novo Diagrama Bertoti](https://github.com/VictorGuui/Bertoti/assets/101465349/8d8942d3-f7fd-40cd-b602-d4197b2a9aea)
 
+Código do programa
+
+Classe App
+![image](https://github.com/VictorGuui/Bertoti/assets/101465349/e5d4a26f-a52b-4f86-aaba-46a756119f49)
+
+Classe Usuario
+![image](https://github.com/VictorGuui/Bertoti/assets/101465349/a77c20b2-dbbd-44f2-aa48-ac4190bc6e19)
+
+Classe Lista
+![image](https://github.com/VictorGuui/Bertoti/assets/101465349/a82d537d-9781-46a4-af29-2fa8e1ef2af2)
+
+Classe Item
+![image](https://github.com/VictorGuui/Bertoti/assets/101465349/ffea5c99-2f0c-4cc3-aba1-e746fa53e438)
+
+Classe Categoria
+![image](https://github.com/VictorGuui/Bertoti/assets/101465349/7eb70d31-dd7f-4240-be50-4ab73a3dc0d9)
+
+Classe Main
+![image](https://github.com/VictorGuui/Bertoti/assets/101465349/aa46d091-7210-42ac-ac5b-4e4231016265)
+
+Resultado:
+![image](https://github.com/VictorGuui/Bertoti/assets/101465349/eb3aa412-1f31-4b2b-bcf2-da398e2ff6fe)
+
+
+
+
+
+
+
+
+
+
+
+
+
