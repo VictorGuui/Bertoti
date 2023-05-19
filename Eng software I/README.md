@@ -37,7 +37,7 @@ Diagrama de classes:
 
 Código do programa:
 
-Classe App:
+<strong>Classe App:</strong>
 ![image](https://github.com/VictorGuui/Bertoti/assets/101465349/e2b991e9-a846-470f-94b2-97a8a7b481ee)
 
 Classe Usuario:
