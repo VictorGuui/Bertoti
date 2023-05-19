@@ -31,28 +31,28 @@ Resposta: A engenharia de software tem ajudado e trago inumeros resultados para 
 17/03/2023
 Foi desenvolvido um sistema de simulação de lista de compras no qual os itens em falta e suas quantidades podem ser inseridos na lista. Os usuários também podem compartilhar listas com outras pessoas, se desejarem.
 
-Diagrama de classes
+Diagrama de classes:
 
 ![Novo Diagrama Bertoti](https://github.com/VictorGuui/Bertoti/assets/101465349/8d8942d3-f7fd-40cd-b602-d4197b2a9aea)
 
-Código do programa
+Código do programa:
 
-Classe App
+Classe App:
 ![image](https://github.com/VictorGuui/Bertoti/assets/101465349/e2b991e9-a846-470f-94b2-97a8a7b481ee)
 
-Classe Usuario
+Classe Usuario:
 ![image](https://github.com/VictorGuui/Bertoti/assets/101465349/4fd9e521-8167-4dde-96f2-fd50e721389c)
 
-Classe Lista
+Classe Lista:
 ![image](https://github.com/VictorGuui/Bertoti/assets/101465349/a82d537d-9781-46a4-af29-2fa8e1ef2af2)
 
-Classe Item
+Classe Item:
 ![image](https://github.com/VictorGuui/Bertoti/assets/101465349/1cd5d8d3-8fe8-459c-9a02-aed9e45a1eb7)
 
-Classe Categoria
+Classe Categoria:
 ![image](https://github.com/VictorGuui/Bertoti/assets/101465349/7eb70d31-dd7f-4240-be50-4ab73a3dc0d9)
 
-Classe Main
+Classe Main:
 ![image](https://github.com/VictorGuui/Bertoti/assets/101465349/aa46d091-7210-42ac-ac5b-4e4231016265)
 
 Resultado:
