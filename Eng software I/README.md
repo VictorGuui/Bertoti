@@ -28,7 +28,7 @@ Resposta: A engenharia de software tem ajudado e trago inumeros resultados para 
 
 ============================================================================================
 
-17/03/2023
+<strong>17/03/2023</strong>
 Foi desenvolvido um sistema de simulação de lista de compras no qual os itens em falta e suas quantidades podem ser inseridos na lista. Os usuários também podem compartilhar listas com outras pessoas, se desejarem.
 <strong>
   Diagrama de classes:
@@ -45,8 +45,9 @@ Código do programa:
 
 <strong>
 Classe Usuario:
-![image](https://github.com/VictorGuui/Bertoti/assets/101465349/4fd9e521-8167-4dde-96f2-fd50e721389c)
 </strong>
+![image](https://github.com/VictorGuui/Bertoti/assets/101465349/4fd9e521-8167-4dde-96f2-fd50e721389c)
+
 <strong>
 Classe Lista:
 </strong>
