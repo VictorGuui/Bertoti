@@ -32,7 +32,7 @@ Resposta: A engenharia de software tem ajudado e trago inumeros resultados para 
 Foi desenvolvido um sistema de simulação de lista de compras no qual os itens em falta e suas quantidades podem ser inseridos na lista. Os usuários também podem compartilhar listas com outras pessoas, se desejarem.
 
 Diagrama de classes:
-![Novo Diagrama Bertoti](https://github.com/VictorGuui/Bertoti/assets/101465349/8d8942d3-f7fd-40cd-b602-d4197b2a9aea)
+![image](https://github.com/VictorGuui/Bertoti/assets/101465349/29d53a33-b833-44f4-812a-035f6002eb71)
 <br/>
 Código do programa>
 
