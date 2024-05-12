@@ -1,4 +1,23 @@
-## Strategy
+# Strategy
+![diagramaStrategy](https://github.com/VictorGuui/Bertoti/assets/101465349/38372c47-bf8e-4f50-9873-02413e69f6a4)
+
+# Observer
+![obsever](https://github.com/VictorGuui/Bertoti/assets/101465349/27d9a84c-aec4-4a7b-adb3-2d04f0db4f76)
+
+# Composite
+![component](https://github.com/VictorGuui/Bertoti/assets/101465349/a1a21cf4-b7e3-4d82-a3d9-f9d165911d0c)
+
+# Singleton
+![Singleton](https://github.com/VictorGuui/Bertoti/assets/101465349/7b210428-8188-4264-aa96-9f59028cf49d)
+
+# Facade 
+![facade](https://github.com/VictorGuui/Bertoti/assets/101465349/ffc1e985-0ec3-4201-8d87-1602594f686c)
+
+#MVC
+![MVC](https://github.com/VictorGuui/Bertoti/assets/101465349/dd377d17-1888-4758-ab71-96853bf22376)
+
+
+
 
 
 <h2>Padrões de Design Patterns</h2>
